@@ -1,0 +1,8 @@
+{
+  "Electronic": [
+    { "Television": "20000" },
+    { "Laptop": "30000" },
+    { "Phone": "10000" }
+  ],
+  "Grocery": [{ "Soap": "40" }, { "Washing Powder": "90" }]
+}
